@@ -1,0 +1,19 @@
+link generator
+
+front 
+create link generator panel 
+panel should be have link name as a input value 
+submit button
+
+backend 
+create db named as link
+input value should be stored in db
+allow user call any pathname followed as server url
+if path name is same as one of the value in db
+it will show content
+otherwsie it show error page
+
+
+
+
+
